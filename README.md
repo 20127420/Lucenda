@@ -1,5 +1,4 @@
 # Lucenda's Website Source code and Documentation
-# Lucenda's Website Source code and Documentation
 
 
 ## Requirements
